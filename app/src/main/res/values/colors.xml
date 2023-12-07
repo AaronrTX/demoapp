@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#0D0E0E</color>
+    <color name="colorAccent">#3BB66D</color>
+    <color name="top_bg">#EEEBEB</color>
+    <color name="math_stat">#F56BD2</color>
+    <color name="math_end">#A20BBD</color>
+    <color name="phy_stat">#F0A12C</color>
+    <color name="phy_end">#F06406</color>
+    <color name="che_stat">#E98F0B</color>
+    <color name="che_end">#F8CA40</color>
+    <color name="bio_stat">#EBF39B73</color>
+    <color name="bio_end">#F38524</color>
+    <color name="geog_stat">#C11CDD</color>
+    <color name="geog_end">#526AEE</color>
+    <color name="comp_stat">#3EC2FA</color>
+    <color name="comp_end">#526AEE</color>
+
+
+    /* Profile Colors */
+    <color name="lavender">#72cc50</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="grey">#D4D4D4</color>
+    <color name="red">#FF0000</color>
+</resources>
